@@ -1,4 +1,4 @@
-module github.com/KyraCTO/cryptotools
+module github.com/KyraCTO/cryptotools/v1
 
 go 1.17
 
